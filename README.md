@@ -7,5 +7,7 @@ This project should be run with command in terminal<br>
 because we use global variables like password and email_adress
 
 Don't forget to change smtp settings in airflow.cfg, otherwist task "send_email" would fail.
+
+
 ![image](https://user-images.githubusercontent.com/98738510/198898984-09b663e5-744e-4eb7-8495-8c43903e14f3.png)
 
