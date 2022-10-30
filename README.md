@@ -2,7 +2,7 @@ In this project, we extract data from csv file on github, transofm it, put it in
 Apache is been built up in Docker, which should be installed first.
 ![image](https://user-images.githubusercontent.com/98738510/198898864-55537051-db33-4189-bc2f-094590fe590d.png)
 
-This project should be run with command in terminal
+This project should be run with command in terminal<br>
 ```$ sudo docker-compose build --no-cache && docker-compose --env-file .envrc up -d:```
 because we use global variables like password and email_adress
 
